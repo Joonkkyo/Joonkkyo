@@ -11,7 +11,7 @@
  - Mail : jkseo50@gmail.com
 <a href="https://velog.io/@jkseo50">
     <img 
-        src="http://img.shields.io/badge/-v-11111?style=flat&logo=Vector Logo Zone&link=https://velog.io/@jkseo50"
+        src="http://img.shields.io/badge/-velog-0?style=flat&logo=Vector Logo Zone&link=https://velog.io/@jkseo50"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 ![Joonkkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonkkyo&show_icons=true&theme=default)
