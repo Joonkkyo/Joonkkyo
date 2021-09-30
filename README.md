@@ -1,5 +1,5 @@
 ### Hi, I'm Joonkyo Seo! 👋
-🔭 Currently working on MegazoneCloud as AI developer
+## 🔭 Currently working on MegazoneCloud as AI developer
 
 
 🌱 Currently learning ML/DL, Docker, Kubernetes, etc.
