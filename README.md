@@ -6,8 +6,8 @@
 
 
 📫 How to reach me:
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jkseo50)](https://velog.io/@jkseo50)
- - Linkedin : https://www.linkedin.com/in/junkyo/ 
+
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junkyo/)](https://www.linkedin.com/in/junkyo/) : https://www.linkedin.com/in/junkyo/ 
  - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jkseo50)](https://velog.io/@jkseo50) : https://velog.io/@jkseo50
  - Mail : jkseo50@gmail.com
 
