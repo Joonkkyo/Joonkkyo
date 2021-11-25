@@ -11,10 +11,6 @@
  - Mail : jkseo50@gmail.com
 
 
-📊 My Github Stats
-
-![Joonkkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonkkyo&show_icons=true&theme=default)
-
 
 🚀 My Algorithm Skills
 
