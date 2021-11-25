@@ -12,9 +12,9 @@
  - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkseo50@gmail.com)](mailto:jkseo50@gmail.com): jkseo50@gmail.com
 
 
-📊 My Github Stats
+<!-- 📊 My Github Stats
 
-![Joonkkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonkkyo&show_icons=true&theme=default)
+![Joonkkyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joonkkyo&show_icons=true&theme=default) -->
 
 
 🚀 My Algorithm Skills
