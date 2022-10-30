@@ -1,5 +1,6 @@
 ### Hi, I'm Joonkyo Seo! 👋
-🔭 Currently working on MegazoneCloud as AI developer
+🔭 Currently working on Samsung Electronics as Software Engineer
+🔭 MegazoneCloud as AI developer (2020.12 ~ 2022.07)
 
 
 🌱 Currently learning ML/DL, Docker, Kubernetes, etc.
