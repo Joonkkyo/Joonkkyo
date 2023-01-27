@@ -1,5 +1,5 @@
 ### Hi, I'm Joonkyo Seo! 👋
-🔭 Currently working on Samsung Electronics as Software Engineer
+🔭 Currently working on Samsung Electronics as Backend Engineer
 
 🔭 Worked on MegazoneCloud as AI developer (2020.12 ~ 2022.07)
 
